@@ -1,2 +1,4 @@
+node_modules/
+*.log
 push.sh
 pub.sh
