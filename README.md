@@ -1,6 +1,10 @@
-# Readme
+# Readme [![Build Status](https://travis-ci.com/erolj/consolelog.svg?branch=master)](https://travis-ci.com/erolj/consolelog) ![npm](https://img.shields.io/npm/v/@erolj/consolelog) ![npm bundle size](https://img.shields.io/bundlephobia/min/@erolj/consolelog)
 
 Npm module to insert default console message on each page.
+
+## Install
+
+[![NPM](https://nodei.co/npm/consolelog.png?mini=true)](https://nodei.co/npm/consolelog/)
 
 ## Usage
 
