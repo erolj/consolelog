@@ -4,7 +4,9 @@ Npm module to insert default console message on each page.
 
 ## Install
 
-[![NPM](https://nodei.co/npm/consolelog.png?mini=true)](https://nodei.co/npm/consolelog/)
+```node
+npm install @erolj/consolelog
+```
 
 ## Usage
 
