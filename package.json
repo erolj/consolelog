@@ -10,6 +10,10 @@
     "console",
     "message"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/erolj/consolelog.git"
+  },
   "author": "erolj <eroljoudy@erto.co> (https://erol.my.id)",
-  "license": "ISC"
+  "license": "MIT"
 }
